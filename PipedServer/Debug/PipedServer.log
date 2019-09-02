@@ -1,0 +1,6 @@
+﻿  PipedServer.cpp
+C:\Users\nishu\source\repos\PipedServer\PipedServer.cpp(172,76): warning C4474:  'printf' : too many arguments passed for format string
+C:\Users\nishu\source\repos\PipedServer\PipedServer.cpp(172,76): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\nishu\source\repos\PipedServer\PipedServer.cpp(204,77): warning C4474:  'printf' : too many arguments passed for format string
+C:\Users\nishu\source\repos\PipedServer\PipedServer.cpp(204,77): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  PipedServer.vcxproj -> C:\Users\nishu\source\repos\PipedServer\Debug\PipedServer.exe
